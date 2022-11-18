@@ -1,0 +1,107 @@
+/* ESTILOS INDEX (INICIO)*/
+header{
+    font-size: 100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color:gainsboro
+}
+h1 {
+    color: rgb(131, 21, 147)
+    
+       
+}
+/* borde redonde al logo de peluq */
+.borde-redondeado{
+    border-radius: 35rem;
+}
+.ubicacion-derecha{
+    float: right;
+} 
+.logo {
+    max-height: 6rem;
+}
+
+.navegador {
+    float: left;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.menu {
+    padding: 3rem;
+}
+
+
+ul.menu li {
+    float: left;
+    margin-left: 0.1rem;
+    margin-right: 0.5rem;
+}
+
+
+ul.menu li > a {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    font-size: 1.3rem;
+}
+
+.tamanio-de-letra{
+    font-size: 1rem;
+}
+
+
+/* FIN ESTILOS INDEX (INICIO) */
+
+/* ESTILOS CONTACTO */
+
+/* sexo en formulario */
+.color-verde{
+ color:black
+}
+
+.que-brindamos {
+    width: 26rem;
+    float: left;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+.footer {
+    clear: both;
+    margin-left: 50%;
+    padding-top: 3rem;
+}
+
+.icono {
+    height: 1rem;
+}
+
+.redes-sociales > li {
+    float: left;
+    margin-left: 1rem;
+
+}
+    
+
+
+.galeria-fotos{
+    margin-left: 50%
+    
+}
+
+/* GALERIA */
+
+
